@@ -16,9 +16,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] Wishlist app is 🎨 **customized** 🎨 // Somewhat
-- //Attempted to implement but couldn't manage to get it to work:
-- [ ] User can delete an item by long pressing on the item
-
+- [ ] User can delete an item by long pressing on the item //Attempted to implement but couldn't manage to get it to work
 - [ ] User can open an item's URL by clicking on the item
 
 The following **additional** features are implemented:
